@@ -1,2 +1,2 @@
-# JS-Encoder-test
+# JS-Encoder-test-Website
 This repository contains the test documentation for the assessment of JS Encoder.....
